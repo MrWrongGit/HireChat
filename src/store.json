@@ -1,2 +1,12 @@
 
+{
+	"user":{
+		"name":"",
+		"pswd":"",
+		"pswd_repeat":"",
+		"identity":"genuis",
 
+		"registerState":"",
+		"loginState":false
+	}
+}
